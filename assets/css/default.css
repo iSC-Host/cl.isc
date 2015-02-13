@@ -576,12 +576,12 @@
 		text-align: center;
 	}
 	
-	#newsletter .title h2
+	#about .title h2
 	{
 		color: rgba(0,0,0,0.8);
 	}
 	
-	#newsletter .content
+	#about .content
 	{
 		width: 600px;
 		margin: 0px auto;
